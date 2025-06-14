@@ -4,7 +4,7 @@
 **Dynamic Retail Data Analysis** is a comprehensive project focused on analyzing sales data from various retail stores to uncover valuable insights and trends that can enhance business decision-making. The analysis emphasizes the influence of key factors, including holidays, promotional markdowns, temperature variations, and fuel prices on weekly sales performance.
 
 ## Dataset
-The project utilizes the [Retail Dataset](https://www.kaggle.com/datasets/manjeetsingh/retaildataset) by Manjeet Singh, which encompasses a variety of features, including:
+The project utilizes the [Retail Dataset](https://www.kaggle.com/datasets/manjeetsingh/retaildataset), which encompasses a variety of features, including:
 
 - Store details
 - Weekly sales figures
